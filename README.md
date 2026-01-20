@@ -1,6 +1,6 @@
 # Automated ML Pipeline on AWS Lambda
 
-A serverless machine learning pipeline that automatically trains Random Forest models on wine quality data using AWS Lambda and S3 storage.
+A serverless machine learning pipeline that automatically trains Random Forest models on wine quality data using AWS Lambda and S3 storage, and predict the score of the wine with different composition of different elements.
 
 ## 🎯 Project Overview
 
